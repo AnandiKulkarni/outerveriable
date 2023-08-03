@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myvar1",
+        "value": "{\n  \"name\": \"anan\",\n  \"age\": 19\n}"
+      },
+      {
+        "name": "myVar2",
+        "value": "[{\n  \"Repo\": \"CE\",\n  \"Workflowname\": \"test-build-docker-image\",\n  \"Totalcount\": 0,\n  \"Success\": 0,\n  \"Failed\": 0\n}, {\n  \"Repo\": \"EE\",\n  \"Workflowname\": \"test-build-docker-image\",\n  \"Totalcount\": 0,\n  \"Success\": 0,\n  \"Failed\": 0\n}, {\n  \"Repo\": \"EE\",\n  \"Workflowname\": \"sync-community-repo\",\n  \"Totalcount\": 0,\n  \"Success\": 0,\n  \"Failed\": 0\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject1",
+  "deleted": false,
+  "gitSyncId": "63e0ee2a90284721f5901ef0_63e353907ae4a02e95f4adc1"
+}

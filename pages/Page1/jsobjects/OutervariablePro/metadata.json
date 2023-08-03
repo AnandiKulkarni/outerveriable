@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "OutervariablePro",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[{\n  name: \"anna\",\n  age: 19\n}]"
+      },
+      {
+        "name": "myVar2",
+        "value": "[\"anan\", \"bbb\"]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_OutervariablePro",
+  "deleted": false,
+  "gitSyncId": "63e0ee2a90284721f5901ef0_63e26babcfc5f847863f5ed6"
+}

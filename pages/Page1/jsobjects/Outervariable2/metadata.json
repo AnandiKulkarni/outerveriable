@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "Outervariable2",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_Outervariable2",
+  "deleted": false,
+  "gitSyncId": "63e0ee2a90284721f5901ef0_63e0fc995630cb74bea12699"
+}
