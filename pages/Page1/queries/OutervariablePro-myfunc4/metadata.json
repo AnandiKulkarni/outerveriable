@@ -30,8 +30,7 @@
         {
           "name": "state"
         }
-      ],
-      "isAsync": true
+      ]
     },
     "executeOnLoad": false,
     "dynamicBindingPathList": [
